@@ -2,11 +2,18 @@ body {
   background-color: #ffc078;
 }
 
+h1 {
+  text-transform: uppercase;
+  font-size: 45px;
+  color: #fff;
+  text-align: center;
+}
+
 #wrapper {
   width: 750px;
   height: 350px;
   background-color: yellow;
-  margin-top: 120px;
+  margin-top: 90px;
   margin-left: 300px;
   border-radius: 5px;
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.8);
